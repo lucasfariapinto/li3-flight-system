@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "utils.h": "c",
+        "aeroportos.h": "c",
+        "gestor_reservas.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "enabled",
+    "terminal.integrated.allowChords": false
+}
